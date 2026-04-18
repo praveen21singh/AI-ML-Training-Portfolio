@@ -1,19 +1,68 @@
-👨‍💻 Machine Learning Maestro 🤖 | Python Developer 🐍
-Turning Data into Insights, One Line of Code at a Time 📊🔍
+# 👨‍🏫 AI & Machine Learning Training Portfolio – Praveen Kumar Singh
 
-🔹 Engineer by Day, Code Wizard by Night 🌙✨
-🔹 Exploring the Depths of AI & ML 🧠🤯
-🔹 Pythonic Enthusiast and Debugger Extraordinaire 🐍🔍
+## 📌 About Me
+AI/ML Trainer with 10+ years of experience in IT and training.  
+Specialized in Python, Data Science, Machine Learning, and Deep Learning.
 
-🌐 Turning Algorithms into Art: Crafting Intelligence through Code
-📈 Data Whisperer | 🤖 AI Architect | ⚙️ Code Artisan
+I have delivered training to B.Tech, MCA, and BCA students at:
+- Chandigarh University
+- Rayat Bahra University
+- Punjab University
+- Amity University Gurgaon  
+(Under Samsung Innovation Campus Program)
 
-Join me on my journey to decode the secrets of data, unravel the mysteries of AI, and sculpt the future with lines of code. Let's build, innovate, and push the boundaries of technology together! 🚀🔗
+---
 
-#CodeIsCanvas #AIAdventures #DataDrivenDreams
-#PythonicProwess #MachineLearningMagic
+## 🎯 What This Repository Contains
+This repository is a structured learning path I use to train students from basics to advanced AI concepts.
 
-<!---
-praveen21singh/praveen21singh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 📚 Curriculum Covered
+
+### 1. Python for Data Science
+- Basics, Functions, OOP
+
+### 2. Data Analysis
+- Pandas, NumPy, Data Cleaning
+
+### 3. Visualization
+- Matplotlib, Seaborn
+
+### 4. Machine Learning
+- Linear Regression
+- Logistic Regression
+- Decision Trees
+- Random Forest
+
+### 5. Deep Learning
+- ANN, CNN basics
+
+### 6. Projects
+- Real-world problem solving
+
+---
+
+## 💡 Teaching Approach
+- Hands-on coding sessions
+- Real-world datasets
+- Project-based learning
+- Industry-focused training
+
+---
+
+## 📂 Projects Included
+- House Price Prediction
+- Fraud Detection
+- Student Performance Analysis
+
+---
+
+## 🛠️ Tools & Technologies
+Python, Pandas, NumPy, Scikit-learn, PyTorch, Matplotlib
+
+---
+
+## 📬 Contact
+Email: your email  
+LinkedIn: your link
