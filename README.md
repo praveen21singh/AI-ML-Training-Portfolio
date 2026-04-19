@@ -1,7 +1,7 @@
 # 👨‍🏫 AI & Machine Learning Training Portfolio – Praveen Kumar Singh
 
 ## 📌 About Me
-AI/ML Trainer with 10+ years of experience in IT and training.  
+AI/ML Trainer with 10+ years of experience in IT and AI training.  
 Specialized in Python, Data Science, Machine Learning, and Deep Learning.
 
 I have delivered training to B.Tech, MCA, and BCA students at:
